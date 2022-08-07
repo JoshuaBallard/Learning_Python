@@ -1,11 +1,14 @@
 <h1>Learning Python</h1>
 
- ### [Where I Learned](https://www.youtube.com/watch?v=rfscVS0vtbw)
-
 <h2>Description</h2>
 This project exists to show my learning path in python and help others achieve their goal of learning it as well. I will do my best to walk through the steps I took in my journey and share any relevant code I have along the way.
 <br />
 
+<h2>Why I'm Learning Python</h2>
+I'm learning Python because it seems like the most user friendly docing language to learn from the beginning. I have an IT background in all facets from helpdesk support to infrastructure design but I'm ready to expand my knowledge. I heard someone say one time that I'd be doing myself a disseervice by not learning Python, so here I am to learn and grow.
+
+
+ ### [Where I Learned](https://www.youtube.com/watch?v=rfscVS0vtbw)
 <!--
 <h2>Languages and Utilities Used</h2>
 
