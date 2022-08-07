@@ -9,6 +9,8 @@ I'm learning Python because it seems like the most user friendly docing language
 
 
  ### [Where I Learned](https://www.youtube.com/watch?v=rfscVS0vtbw)
+ 
+ 
 <!--
 <h2>Languages and Utilities Used</h2>
 
