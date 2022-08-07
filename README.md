@@ -1,9 +1,9 @@
-<h1>Title of Project</h1>
+<h1>Learning Python</h1>
 
- ### [Sample YouTube Link](https://youtu.be/LINKHERE)
+ ### [Where I Learned](https://www.youtube.com/watch?v=rfscVS0vtbw)
 
 <h2>Description</h2>
-Description of project lives here.
+This project exists to show my learning path in python and help others achieve their goal of learning it as well. I will do my best to walk through the steps I took in my journey and share any relevant code I have along the way.
 <br />
 
 <!--
